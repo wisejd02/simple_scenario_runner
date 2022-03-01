@@ -3,6 +3,7 @@
 
 console.log( "Hello Running Simple Scenario Runner CLI!" );
 const ttlStart = new Date().getTime();
+
 //read json test config file
 const flow = require('../scenarios/test_scen.json')
 
