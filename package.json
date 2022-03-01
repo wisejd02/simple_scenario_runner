@@ -1,0 +1,14 @@
+{
+  "name": "simple_scenario_runner_cli",
+  "version": "1.0.0",
+  "description": "The aim is to build a simple universal scenario runner that has a scenario as a config and runs its stages",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "test_runner"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "author": "J.Wise",
+  "license": "ISC"
+}
